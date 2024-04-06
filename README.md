@@ -1,4 +1,4 @@
-### Hi there 👋
+### &nbsp;Hola soy Alberto 👋👨‍💻
 
 <!--
 **alberto-upm/alberto-upm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
-<h2 align = "center"> Hola soy Alberto, encantado! <!--Hi I'm Alberto -->
+<h2 align = "center"> Hola soy Alberto, encantado! <!--Hi I'm Alberto 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h2>
 <div align = "center">
@@ -25,18 +24,20 @@ Here are some ideas to get you started:
     </a>
 
 </div>
+-->
 
-### 👩‍💻 &nbsp;About Me
+###  &nbsp;Sobre mi
 
 💡 &nbsp;Me gusta encontrar soluciones creativas a los problemas que me enfrento.\
 🎓 &nbsp;Estudio Matemáticas e Informática en la Universidad Politécnica de Madrid.\
 🌱 &nbsp;Actualmente estoy aprendiendo sobre Maching Learning.\
-🤸 &nbsp;En mi tiempo libre me gusta ir a pasear por la naturaleza, al teatro y al cine.
-
-### ⚙️ &nbsp;GitHub Analytics
+🌻 &nbsp;En mi tiempo libre me gusta dar paseos por la naturaleza, ver teatro y jugar a juegos de mesa.
+<!--
+### ⚙️ &nbsp;Analíticas GitHub 
 <p align="center">
 <a href="https://github.com/alberto-upm">
 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alberto-upm&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+-->
