@@ -33,7 +33,10 @@ Here are some ideas to get you started:
 🌱 &nbsp;Actualmente estoy aprendiendo sobre Maching Learning.\
 🌻 &nbsp;En mi tiempo libre me gusta dar paseos por la naturaleza, ver teatro y jugar a juegos de mesa.
 
+api/top-langs?username=alberto-upm
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberto-upm)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberto-upm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <!--
 ### ⚙️ &nbsp;Analíticas GitHub 
 <p align="center">
