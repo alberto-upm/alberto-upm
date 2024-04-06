@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 🎓 &nbsp;Estudio Matemáticas e Informática en la Universidad Politécnica de Madrid.\
 🌱 &nbsp;Actualmente estoy aprendiendo sobre Maching Learning.\
 🌻 &nbsp;En mi tiempo libre me gusta dar paseos por la naturaleza, ver teatro y jugar a juegos de mesa.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberto-upm)]
 <!--
 ### ⚙️ &nbsp;Analíticas GitHub 
 <p align="center">
