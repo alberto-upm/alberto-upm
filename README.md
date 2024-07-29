@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 💡 &nbsp;Me gusta encontrar soluciones creativas a los problemas que me enfrento.\
 🎓 &nbsp;Estudio Matemáticas e Informática en la Universidad Politécnica de Madrid.\
 🌱 &nbsp;Actualmente estoy aprendiendo sobre Machine Learning.\
-🌻 &nbsp;En mi tiempo libre me gusta dar paseos por la naturaleza, ver teatro y jugar a juegos de mesa.
+🌻 &nbsp;En mi tiempo libre me gusta dar paseos por la naturaleza, ir al teatro y jugar a juegos de mesa.
 
 <!--
 ### ⚙️ &nbsp;Analíticas GitHub 
