@@ -25,15 +25,17 @@ Here are some ideas to get you started:
 
 </div>
 -->
-
+<!--
 ###  &nbsp;Sobre mi
+-->
 <!--
 💡 &nbsp;Me gusta encontrar soluciones creativas a los problemas que me enfrento.\
 -->
+<!--
 🎓 &nbsp;Matemático e Informático.\
 🌱 &nbsp;Interesado en aplicaciones prácticas de la inteligencia artificial, la lingüística computacional y la evaluación de LLMs.\
 🌻 &nbsp;En mi tiempo libre me gusta dar paseos por la naturaleza, ir al teatro y jugar a juegos de mesa.
-
+-->
 <!--
 ### ⚙️ &nbsp;Analíticas GitHub 
 (https://github.com/anuraghazra/github-readme-stats)
